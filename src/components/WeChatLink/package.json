@@ -1,0 +1,6 @@
+{
+  "name": "WeChatLink",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./WeChatLink.js"
+}

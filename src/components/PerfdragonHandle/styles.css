@@ -1,0 +1,27 @@
+.down_wrap {
+    height: 200px;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.leftModule {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    font-size: 15px;
+    color: #19191cb3;
+}
+
+.leftModule span {
+    margin-left: 20px;
+}
+
+.rightModule {
+    margin-left: 150px;
+}
+.down_bottom {
+    width: 200px;
+    margin-left: 19px;
+    margin-top: 15px;
+}
